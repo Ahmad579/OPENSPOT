@@ -1,0 +1,6 @@
+framework module Pods_OPENSPOTUITests {
+  umbrella header "Pods-OPENSPOTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
